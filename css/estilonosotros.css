@@ -1,0 +1,28 @@
+.acerca-de{
+  width: 100%;
+  margin-top: 120px;
+}
+
+.acerca-de .info-container{
+  width: 80%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.acerca-de .info-container h1{
+  font-size: 50px;
+  font-weight: 400;
+  color: var(--black);
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.acerca-de .info-container p{
+  text-align: center;
+  font-size: 17px;
+  color: var(--black);
+  line-height: 35px;
+  margin: 10px 0px;
+}
